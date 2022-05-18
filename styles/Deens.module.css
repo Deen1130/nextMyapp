@@ -1,0 +1,13 @@
+.single {
+  padding: 8px 16px;
+  background: #fff;
+  display: block;
+  margin: 20px 0px;
+  border-left: 8px solid #fff;
+}
+.single:hover {
+  border-left: 8px solid #4979ff;
+}
+.details-box {
+  text-align: center;
+}
